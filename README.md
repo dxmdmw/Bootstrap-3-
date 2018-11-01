@@ -6,7 +6,7 @@ Bootstrap 是一个用于快速开发 Web 应用程序和网站的前端框架�
 * **移动设备优先**：框架包含了贯穿于整个库的移动设备优先的样式。
 * 主流浏览器都支持
 * **响应式设计**：响应式 CSS 能够自适应于台式机、平板和手机。
-*  ![设备](http://www.runoob.com/wp-content/uploads/2014/06/responsive.jpg)
+  ![设备](http://www.runoob.com/wp-content/uploads/2014/06/responsive.jpg)
 
 ### 自带特性：全局 CSS 设置、定义基本的 HTML 元素样式、可扩展的 class，先进的网格系统。
 
